@@ -1,0 +1,20 @@
+{
+    "name": "daily-map",
+    "version": "0.0.0",
+    "authors": [
+        "Kareem Khaled"
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "latest",
+        "bootstrap": "^3.3.7",
+        "knockout": "latest"
+    }
+}
