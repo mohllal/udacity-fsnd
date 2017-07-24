@@ -24,7 +24,7 @@ The database schema was written in PostgreSQL, and the wrapper language used to 
 ## Usage:
 To use this code to manage a Swiss-style tourament, you should:
 1. Download and unzip all of the files in this repo into the same directory.
-2. From the command line, navigate to the directory into which you unzipped all the files from this repo.
+2. From the command line, navigate to the ```p4-swiss-tournament``` directory into which you unzipped all the files from this repo.
 3. Start the psql command line client, which talks to the PostgreSQL database, by typing ```psql``` and pressing enter.
 4. Create the database by typing ```\i tournament.sql``` into the psql interpreter and pressing enter.
 

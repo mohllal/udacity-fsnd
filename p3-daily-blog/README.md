@@ -17,7 +17,7 @@ It uses [Google Cloud Datastore](https://cloud.google.com/appengine/docs/standar
  - Elegant UI.
 
 ### Usage:
-1. Clone this repository to your desktop, go to its root directory and run:
+1. Clone this repository to your desktop, go to the ```p3-daily-blog``` directory and run:
 ```python
 dev_appserver.py .
 ```

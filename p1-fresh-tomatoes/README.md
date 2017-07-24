@@ -27,7 +27,7 @@ This application needs [Python 2.7.12](https://www.python.org/downloads/release/
     - Play movie's trailer video on [Youtube](https://www.youtube.com/).
 
 ### Usage:
-To generate the HTML page, open your terminal and type:
+1. Clone this repository to your desktop, go to the ```p1-fresh-tomatoes``` directory and type the following to generate the HTML page:
 ```
 python entertainment_center.py
 ```

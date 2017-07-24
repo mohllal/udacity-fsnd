@@ -6,7 +6,7 @@ This is my project for the [Udacity's Full Stack Web Developer Nanodegree](https
 Project Name: Portfolio Site.
 
 ### Usage:
-1. Clone this repository to your desktop, go to its root directory and open ```index.html```.
+1. Clone this repository to your desktop, go to the ```p2-mockup-portfolio``` directory and open ```index.html```.
 2. Personalize your portfolio with custom colors, additional content and your own images.
 
 

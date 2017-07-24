@@ -15,7 +15,7 @@ Project Name: Neighborhood Map.
 - Elegant UI.
 
 ### Usage:
-Clone this repository to your desktop, go to its root directory and open index.html file.
+1. Clone this repository to your desktop, go to the ```p6-daily-map``` directory and open ```index.html``` file.
 
 ### Built With:
 - [Bootstrap 3](http://getbootstrap.com/): Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.

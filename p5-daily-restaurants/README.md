@@ -31,7 +31,7 @@ The application uses [Flask](http://flask.pocoo.org/) framework and [SQLAlchemy]
 - **`google_client_secrtets.json`**: Authorization information for Google+ authentication. These can be used to try out the authorization options. However, for serious use, you should aquire your own keys.
 
 ### Usage:
-1. Clone this repository to your desktop, go to its root directory and run:
+1. Clone this repository to your desktop, go to the ```p5-daily-restaurants``` directory and run:
 ```python
 python models.py
 ```
