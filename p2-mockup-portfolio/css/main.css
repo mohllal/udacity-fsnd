@@ -1,0 +1,83 @@
+* {
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+}
+
+.container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.colored-hr {
+    border: 2px solid #7d97ad !important;
+}
+
+.heading {
+    margin-top: 0;
+    color: #2d3c49;
+}
+
+.project-heading {
+    margin-bottom: 7px;
+}
+
+.aboutme {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+
+.maring-img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.progress {
+    width: 80%;
+}
+
+.progress-section {
+    float: left;
+    width: 33.33%;
+}
+
+.skill-desc {
+    padding: 5px;
+}
+
+.skill-heading {
+    margin-bottom: 5px;
+}
+
+.red-progress-bar {
+    width: 90% !important;
+    background-color: red !important;
+}
+
+.black-progress-bar {
+    width: 80% !important;
+    background-color: black !important;
+}
+
+.orange-progress-bar {
+    width: 70% !important;
+    background-color: orange !important;
+}
+
+.blue-progress-bar {
+    width: 70% !important;
+    background-color: blue !important;
+}
+
+.green-progress-bar {
+    width: 60% !important;
+    background-color: green !important;
+}
+
+.purple-progress-bar {
+    width: 70% !important;
+    background-color: purple !important;
+}
+
+.project-col {
+    margin-top: 15px !important;
+}
